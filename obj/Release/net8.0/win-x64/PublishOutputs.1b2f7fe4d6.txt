@@ -1,6 +1,0 @@
-C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\publish\appsettings.Development.json
-C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\publish\appsettings.json
-C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\publish\publish\appsettings.Development.json
-C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\publish\publish\appsettings.json
-C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\publish\WindowsServiceMonitor.pdb
-C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\publish\WindowsServiceMonitor.exe
