@@ -1,0 +1,67 @@
+# Build results
+bin/
+obj/
+publish/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+packages/
+.nuget/
+
+# Auto-generated files
+Generated_Code/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# dotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# NCrunch
+.ncrunchproject
+*.ncrunch*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Azure
+.azure-pipelines/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Local secrets
+secrets.json
+
+# Docker artifacts (if using Docker later)
+docker-compose.override.yml

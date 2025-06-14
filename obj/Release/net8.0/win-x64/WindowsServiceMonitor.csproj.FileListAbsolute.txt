@@ -229,3 +229,6 @@ C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\obj\Release\net8.0\win-
 C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\obj\Release\net8.0\win-x64\WindowsServiceMonitor.pdb
 C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\obj\Release\net8.0\win-x64\WindowsServiceMonitor.genruntimeconfig.cache
 C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\obj\Release\net8.0\win-x64\ref\WindowsServiceMonitor.dll
+C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\bin\Release\net8.0\win-x64\publish\appsettings.json
+C:\Development\Freelancer\Eurofins\WindowsServiceMonitor\obj\Release\net8.0\win-x64\WindowsServiceMonitor.sourcelink.json

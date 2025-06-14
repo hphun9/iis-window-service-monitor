@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsServiceMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2760aff332376d04e991612aeac0728cb428807b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsServiceMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsServiceMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
